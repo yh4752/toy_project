@@ -1,0 +1,19 @@
+@import url(./header.css);
+@import url(./nav.css);
+@import url(./main.css);
+@import url(./pick_num.css);
+@import url(./running.css);
+
+* {
+  margin: 0px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.unable {
+  display: none;
+}
